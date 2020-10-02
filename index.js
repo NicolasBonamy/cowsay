@@ -1,6 +1,4 @@
 const cowsay = require("cowsay");
-const myInformations = require('./information.js');
-const cowsay = require("cowsay");
 const myInfos = require("./information.js");
 
 
